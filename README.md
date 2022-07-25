@@ -12,7 +12,7 @@
 
 ## Intro To The Project
 
-This is an site where API is not fetched on any Site ,this site is web scrapped and we created an api on it,this is site supervised under our Mobile App Lab And it is developed by Nifaz and Samuel
+This is a site which shows you the current fuel price in every states of INDIA  ,this site is web scrapped and we created an api on it, this site is supervised under our Mobile App Lab And it is developed by VIJAY.
 
 
 ## Reference
@@ -30,6 +30,6 @@ To run the project you have to run => app.py,
 Run on this server =>http://127.0.0.1:5001/
 ## Authors
 
-- [@Samuel](https://www.github.com/renjithsamuel)
-- [@Nifaz](https://www.github.com/nifazzz10)
+- [@Vijay](https://www.github.com/vijayd31)
+
 
