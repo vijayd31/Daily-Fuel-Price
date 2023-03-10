@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Fuel-Price-Daily/static/css/main.5b4bb668.css",
+    "main.js": "/Fuel-Price-Daily/static/js/main.5a3c5936.js",
+    "static/media/daily.svg": "/Fuel-Price-Daily/static/media/daily.29c6a3dcc9decc3a9ab148422b114951.svg",
+    "index.html": "/Fuel-Price-Daily/index.html",
+    "main.5b4bb668.css.map": "/Fuel-Price-Daily/static/css/main.5b4bb668.css.map",
+    "main.5a3c5936.js.map": "/Fuel-Price-Daily/static/js/main.5a3c5936.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b4bb668.css",
+    "static/js/main.5a3c5936.js"
+  ]
+}
